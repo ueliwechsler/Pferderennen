@@ -65,3 +65,6 @@ idx = df[:Cheval] .== "ENATTOF"
 df[idx,:]
 
 names(df)
+
+Feather.write(joinpath(data_dir,"db.feather"), df)
+df2 = Feather.read(joinpath(data_dir,"db.feather"))
