@@ -1,0 +1,154 @@
+26.08.2018 AARAU Réunion
+Course No 1 PREIS TURF CLUB AARAU
+Attelé - 2500 m
+Début des opérations : 13:30
+Heure du départ : 13:30
+Heure réelle du départ : 13:30
+13 engagés / 13 partants
+Temps de la course : 3'23"71
+ARRIVÉE DÉFINITIVE
+Cl No Retr Cheval Ec. Driver Cote Temps Redk Longueur Distance
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+10
+7
+5
+3
+1
+8
+2
+12
+11
+9
+4
+6
+13
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+UVIDUS
+VIACUS FRAZÉEN
+AMOUR D'ETÉ
+CORLEONE
+UXON D'HAGUE
+VINO PAGUERIE
+CHÉRIE
+TINOMOMO
+ANTOINE DE LORIOL
+URON DU RIED
+RAMONA LAP
+VIGO DU VERGER
+SALTIMBANQUE
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+BOVAY AMÉLIE
+FERRO LORIS
+HIRT-FANKHAUSER EVELYNE
+NUNES DE OLIVEIRA VICTOR
+WYSS SANDRA
+DAVET PAULINE
+VIGNONI JOEY
+MONNIER SANDRA
+GONIN NATHALIE
+BRACHER HEINER
+KRÜSI BARBARA
+MATTHEY JEAN-BERNARD
+KOHLER RUDOLF
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3'23"71
+3'24"08
+3'24"09
+3'24"21
+3'24"25
+3'24"39
+3'24"60
+3'25"02
+3'25"20
+3'26"88
+3'27"88
+3'28"09
+3'28"27
+1'21"50
+1'21"60
+1'21"60
+1'21"70
+1'21"70
+1'21"80
+1'21"80
+1'22"00
+1'22"10
+1'22"80
+1'23"20
+1'23"20
+1'23"30
+1'21"50
+1 L 3/4
+CTE TETE
+1/2 L
+TETE
+3/4 L
+1 L
+2 L
+1 L
+8 L
+5 L
+1 L
+1 L
+2500 m
+2500 m
+2500 m
+2500 m
+2500 m
+2500 m
+2500 m
+2500 m
+2500 m
+2500 m
+2500 m
+2500 m
+2500 m
+Aucun non partant
