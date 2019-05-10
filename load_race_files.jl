@@ -47,6 +47,7 @@ end
 
 dir = @__DIR__
 data_dir = joinpath(dir, "data")
+db_path = joinpath(data_dir, "db.csv")
 file_dir = joinpath(data_dir,"september_2018")
 
 files = joinpath.(file_dir,readdir(file_dir))
@@ -57,4 +58,10 @@ df = vcat(load_race.(files)...)
 using Feather
 using CSV
 
-CSV.write
+CSV.write(db_path, df)
+
+df = CSV.read(db_path)
+idx = df[:Cheval] .== "ENATTOF"
+df[idx,:]
+
+names(df)
